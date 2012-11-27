@@ -1,0 +1,11 @@
+﻿Name: Mindshare.Community
+AntiForgery: enabled
+Author: Enlightened Mindshare
+Website: http://www.enlightenedmindshare.com
+Version: 0.1
+OrchardVersion: 1.5
+Description: Mindshare Community Module
+Category: Mindshare
+Features:
+    Mindshare.Community:
+        Description: Enlightened Mindshare Community Features.

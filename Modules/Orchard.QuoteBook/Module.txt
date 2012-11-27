@@ -1,0 +1,11 @@
+﻿Name: Orchard.QuoteBook
+AntiForgery: enabled
+Author: Enlightened Mindshare
+Website: http://www.enlightenedmindshare.com
+Version: 0.1
+OrchardVersion: 1.5
+Description: QuoteBook Orchard Module
+Category: Quotes
+Features:
+    Orchard.QuoteBook:
+        Description: Description for feature Orchard.QuoteBook.
